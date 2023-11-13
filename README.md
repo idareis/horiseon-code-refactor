@@ -11,9 +11,7 @@ N/A
 
 ## Usage
 
-```md
 [![127-0-0-1-5500-horiseon-code-refactor-index-html.png](https://i.postimg.cc/q7tV2f0j/127-0-0-1-5500-horiseon-code-refactor-index-html.png)](https://postimg.cc/gwPTPTxZ)
-```
 
 Provide instructions and examples for use. Include screenshots as needed.
 
