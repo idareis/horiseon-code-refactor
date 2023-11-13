@@ -11,15 +11,10 @@ N/A
 
 ## Usage
 
-[![127-0-0-1-5500-horiseon-code-refactor-index-html.png](https://i.postimg.cc/q7tV2f0j/127-0-0-1-5500-horiseon-code-refactor-index-html.png)](https://postimg.cc/gwPTPTxZ)
+Any details about the services offered are below by scrolling down the page and just access the necessary service by clicking the link at the top of the page.
 
-Provide instructions and examples for use. Include screenshots as needed.
+[![website screenshot)](assets/images/127.0.0.1_5500_horiseon-code-refactor_index.html.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
